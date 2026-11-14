@@ -17,7 +17,7 @@ Adds one file to the repo: `terraform/env/<env>/<vm_name>.tfvars`. The Gitea wor
      | Variable | Default | Notes |
      |---|---|---|
      | `image` | `ubuntu-26.04-vm` | LXD image alias |
-     | `os_type` | `ubuntu-vm` | becomes part of the instance name |
+     | `os_type` | `ubuntu-vm` | becomes part of the ins  nce name |
      | `network` | `lxdbr0` | |
      | `storage_pool` | `default` | |
      | `disk_size` | `10GiB` | |
